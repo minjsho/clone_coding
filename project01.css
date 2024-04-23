@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header-container{
+  display: flex;
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+
+.hd1{
+  background-color: orange;
+  width: 50%;
+}
+
+.hd2{
+  background-color: cornflowerblue; 
+  width: 50%;
+}
+
+nav{
+  height: 50px;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+}
+
+li{
+  height:50px;
+  margin: 0 10px;
+}
+
+#footer{
+  background-color:whitesmoke;
+  color: gray;
+  height: 300px;
+}
